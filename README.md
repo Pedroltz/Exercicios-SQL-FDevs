@@ -5,14 +5,14 @@ Neste repositório você vai encontrar os scripts das aulas de Banco de Dados In
 ## Estrutura
 
 ### Iniciante
-- `exercicio1-consulta-produtos.sql` - Consulta produtos com categoria e estoque
-- `exercicio2-excluir-roupas.sql` - Remove produtos da categoria "Roupas"  
-- `exercicio3-nomes-completos.sql` - Junta nomes completos com ISNULL
+- `iniciante-exercicio1-consulta-produtos.sql` - Consulta produtos com categoria e estoque
+- `iniciante-exercicio2-excluir-roupas.sql` - Remove produtos da categoria "Roupas"  
+- `iniciante-exercicio3-nomes-isnull.sql` - Junta nomes completos com ISNULL
 
 ### Intermediário
-- `exercicio1-consulta-produtos.sql` - Consulta produtos com categoria e estoque
-- `exercicio2-excluir-roupas.sql` - Remove produtos da categoria "Roupas"
-- `exercicio3-nomes-completos.sql` - Junta nomes completos com CASE
+- `intermediario-exercicio1-consulta-produtos.sql` - Consulta produtos com categoria e estoque
+- `intermediario-exercicio2-excluir-roupas.sql` - Remove produtos da categoria "Roupas"
+- `intermediario-exercicio3-nomes-case.sql` - Junta nomes completos com CASE
 
 ## Como usar
 
